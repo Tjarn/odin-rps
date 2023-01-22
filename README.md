@@ -14,8 +14,12 @@ a function, getComputerChoice() that randomly returns one of rock paper scissors
 math.random  between 0 and 1. Sorry, that's Math.random -- capitalize.
 
 01/22/2023
+Branch gui
+
 Forgot to commit and push.  Did so. Next assignment is to set up a GUI to play the game.
 First, create a branch.  git branch gui.  checkout gui.  then git push --set-upstream origin gui
 Now I'm writing this then I'll checkout the main branch and this should be not there.  Hmm...
 I'll need to pull it from the main branch though, as this file will still be there.  So rename old file for safety, then restore.
 Off to test.
+OK, I don't need to worry.  Switching branches automatically means that the
+right files are up.  So no need to worry there.
